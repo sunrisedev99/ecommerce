@@ -33,13 +33,13 @@
 ### Clone the project
 
 ```bash
-  git clone https://github.com/RishiBakshii/mern-ecommerce.git
+  git clone https://github.com/sunrisedev99/ecommerce-frontend.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-  cd mern-ecommerce
+  cd ecommerce-frontend
 ```
 
 ### Install dependencies for frontend and backend separately
@@ -130,6 +130,11 @@ REACT_APP_BASE_URL="http://localhost:8000"
   email: demo@gmail.com
   pass: helloWorld@123
 ```
+ion, create a personal account with a valid email address.
+### Accessing the Application
+Once both servers are running, you can access them at the following URL's:
+- Backend: http://localhost:8000
+- Frontend: http://localhost:3000
 
 - **Please Note**: While the demo account provides a convenient way to explore many features, it has some limitations:
     - **Password Reset and OTP Verification**: Due to security reasons, the demo account uses a non-real email address. Therefore, password reset and OTP verification functionalities are not available for this account.
@@ -140,14 +145,9 @@ REACT_APP_BASE_URL="http://localhost:8000"
 
     **What to do?**
     - If you're primarily interested in exploring other functionalities like wishlist, cart, and order history, the demo account is sufficient.
-    - To test password reset and OTP verification, create a personal account with a valid email address.
-### Accessing the Application
-Once both servers are running, you can access them at the following URL's:
-- Backend: http://localhost:8000
-- Frontend: http://localhost:3000
-
+    - To test password reset and OTP verificat
 ## **Bonus**
 Don't forget to star the repository and share your feedback!✨
 
 ## Authors
-- [@RishiBakshii](https://github.com/RishiBakshii)
+- [@sunrisedev99](https://github.com/sunrisedev99)
